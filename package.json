@@ -3,14 +3,14 @@
   "displayName": "term-world",
   "description": "Default theme for term-world",
   "publisher": "term-world",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "engines": {
     "vscode": "^1.60.0"
   },
   "categories": [
     "Themes"
   ],
-  "icon": "https://raw.githubusercontent.com/term-world/term-world-theme/main/images/clive.png",
+  "icon": "images/clive.png",
   "contributes": {
     "themes": [
       {

@@ -10,7 +10,7 @@
   "categories": [
     "Themes"
   ],
-  "icon": "images/clive.png",
+  "icon": "https://raw.githubusercontent.com/term-world/term-world-theme/main/images/clive.png",
   "contributes": {
     "themes": [
       {

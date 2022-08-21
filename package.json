@@ -2,9 +2,10 @@
   "name": "term-world",
   "displayName": "term-world",
   "description": "Default theme for term-world",
+  "publisher": "term-world",
   "version": "1.0.0",
   "engines": {
-    "vscode": "^1.70.0"
+    "vscode": "^1.60.0"
   },
   "categories": [
     "Themes"

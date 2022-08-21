@@ -18,8 +18,7 @@
 		"terminal.foreground": "#f79120",
 		"textLink.foreground": "#e6cd17",
 		"textLink.activeForeground": "#fff",
-		"sideBar.border": "#f79120",
-		"highli"
+		"sideBar.border": "#f79120"
 	},
 	"tokenColors": [
 		{

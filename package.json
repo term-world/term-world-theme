@@ -1,0 +1,21 @@
+{
+  "name": "term-world",
+  "displayName": "term-world",
+  "description": "Default theme for term-world",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "term-world",
+        "uiTheme": "vs-dark",
+        "path": "./themes/term-world-color-theme.json"
+      }
+    ]
+  }
+}

@@ -4,6 +4,4 @@ All notable changes to the "term-world" extension will be documented in this fil
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
-
-- Initial release
+## [1.0.0] - 2022-08-21

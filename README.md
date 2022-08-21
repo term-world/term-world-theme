@@ -1,16 +1,9 @@
-# term-world README
+# term-world Theme
 
-## Working with Markdown
+You're using the official `term-world` theme! It's friendly; it's orange; it's a glow.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Further reading
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+The color scheme is a reference to the work that motivated the creation of `term-world`,
+Brian Dear's [_The Friendly Orange Glow_](http://www.friendlyorangeglow.com/news.html). If
+you ask nicely enough, Professor Luman might lend you the book.
